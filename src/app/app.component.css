@@ -1,0 +1,14 @@
+.list-group-item{
+    height: 50px;
+    width: 500px;
+    cursor: pointer;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.list-group-item:active{
+    opacity: 0.7;
+}
